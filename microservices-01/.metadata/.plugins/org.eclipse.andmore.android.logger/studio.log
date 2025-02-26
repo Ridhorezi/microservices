@@ -1,0 +1,1034 @@
+2024-10-16 21:11:43,951 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2024-10-16 21:11:43,951 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2024-10-16 21:11:43,951 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2024-10-16 21:11:43,954 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2024-10-16 21:11:43,983 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2024-10-16 21:11:44,007 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2024-10-16 21:11:44,034 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2024-10-16 21:11:44,035 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2024-10-16 21:11:44,041 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2024-10-16 21:11:44,041 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2024-10-16 21:11:44,072 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2024-10-16 21:11:44,072 [Worker-13: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2024-10-16 21:11:44,111 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2024-10-16 21:11:44,113 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,126 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,127 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2024-10-16 21:11:44,128 [Worker-13: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2024-10-16 21:20:29,454 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2024-10-16 21:20:29,475 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk896576140/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2024-10-16 21:20:29,476 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2024-10-16 21:20:29,476 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk896576140/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2024-10-16 21:20:29,476 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2024-10-16 21:20:29,484 [main] INFO  Studio for Android - Created a JDBC driver instance at Data Tools.
+2024-10-16 21:20:29,485 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2024-10-16 21:20:29,485 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2024-10-16 21:20:29,486 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2024-10-16 21:20:29,889 [Framework stop - Equinox Container: 155cb9d1-8953-4750-966a-a4dfdd2eff13] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2024-10-16 21:20:30,519 [Framework stop - Equinox Container: 155cb9d1-8953-4750-966a-a4dfdd2eff13] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2024-10-16 21:20:30,580 [Framework stop - Equinox Container: 155cb9d1-8953-4750-966a-a4dfdd2eff13] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2024-10-16 21:20:30,580 [Framework stop - Equinox Container: 155cb9d1-8953-4750-966a-a4dfdd2eff13] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2024-10-16 21:21:57,035 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2024-10-16 21:21:57,035 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2024-10-16 21:21:57,035 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2024-10-16 21:21:57,039 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2024-10-16 21:21:57,061 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2024-10-16 21:21:57,093 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2024-10-16 21:21:57,130 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2024-10-16 21:21:57,131 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2024-10-16 21:21:57,136 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2024-10-16 21:21:57,136 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2024-10-16 21:21:57,146 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2024-10-16 21:21:57,147 [Worker-15: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2024-10-16 21:21:57,191 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2024-10-16 21:21:57,193 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2024-10-16 21:21:57,208 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,209 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,210 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,211 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,211 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,211 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,211 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,211 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,211 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,211 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,211 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,211 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2024-10-16 21:21:57,212 [Worker-15: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2024-10-16 21:21:58,359 [Worker-7: Android SDK Content Loader] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2024-10-16 21:26:22,393 [main] DEBUG class java.lang.Class - Starting Android Key Manager Plugin...
+2024-10-16 21:26:22,393 [main] DEBUG class java.lang.Class - Key Manager Plugin started.
+2024-10-17 08:32:33,047 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2024-10-17 08:32:33,542 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk896576140/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2024-10-17 08:32:33,544 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2024-10-17 08:32:33,544 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk896576140/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2024-10-17 08:32:33,544 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2024-10-17 08:32:33,553 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2024-10-17 08:32:33,554 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2024-10-17 08:32:33,559 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2024-10-17 08:32:44,891 [Framework stop - Equinox Container: dc26d4b5-6d06-4648-9342-e60941cd34f0] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2024-10-17 08:32:45,170 [Framework stop - Equinox Container: dc26d4b5-6d06-4648-9342-e60941cd34f0] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2024-10-17 08:32:45,212 [Framework stop - Equinox Container: dc26d4b5-6d06-4648-9342-e60941cd34f0] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2024-10-17 08:32:45,213 [Framework stop - Equinox Container: dc26d4b5-6d06-4648-9342-e60941cd34f0] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2024-10-22 11:18:10,923 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2024-10-22 11:18:10,924 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2024-10-22 11:18:10,924 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2024-10-22 11:18:10,928 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2024-10-22 11:18:10,953 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2024-10-22 11:18:10,979 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2024-10-22 11:18:11,007 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2024-10-22 11:18:11,008 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2024-10-22 11:18:11,012 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2024-10-22 11:18:11,013 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2024-10-22 11:18:11,026 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2024-10-22 11:18:11,026 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2024-10-22 11:18:11,058 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2024-10-22 11:18:11,060 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2024-10-22 11:18:11,075 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,075 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,075 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,076 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,076 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,076 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,076 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,076 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,076 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,076 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,076 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,076 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,076 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,077 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,078 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:18:11,078 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2024-10-22 11:18:11,078 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2024-10-22 11:18:11,078 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2024-10-22 11:18:11,078 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2024-10-22 11:18:11,078 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2024-10-22 11:18:11,078 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2024-10-22 11:18:11,078 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2024-10-22 11:18:11,078 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2024-10-22 11:18:11,078 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2024-10-22 11:18:11,078 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2024-10-22 11:18:11,649 [Worker-15: Android SDK Content Loader] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2024-10-22 11:32:05,694 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2024-10-22 11:32:05,908 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk454164821/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2024-10-22 11:32:05,908 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2024-10-22 11:32:05,908 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk454164821/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2024-10-22 11:32:05,909 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2024-10-22 11:32:05,913 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2024-10-22 11:32:05,914 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2024-10-22 11:32:05,918 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2024-10-22 11:32:06,479 [Framework stop - Equinox Container: c20bad7b-8a8e-4f7f-839e-bf13d4f30e0f] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2024-10-22 11:32:06,704 [Framework stop - Equinox Container: c20bad7b-8a8e-4f7f-839e-bf13d4f30e0f] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2024-10-22 11:32:06,745 [Framework stop - Equinox Container: c20bad7b-8a8e-4f7f-839e-bf13d4f30e0f] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2024-10-22 11:32:06,745 [Framework stop - Equinox Container: c20bad7b-8a8e-4f7f-839e-bf13d4f30e0f] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2024-10-22 11:35:05,594 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2024-10-22 11:35:05,595 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2024-10-22 11:35:05,595 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2024-10-22 11:35:05,606 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2024-10-22 11:35:05,698 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2024-10-22 11:35:05,765 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2024-10-22 11:35:05,808 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2024-10-22 11:35:05,812 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2024-10-22 11:35:05,820 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2024-10-22 11:35:05,827 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2024-10-22 11:35:05,837 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2024-10-22 11:35:05,837 [Worker-9: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2024-10-22 11:35:05,907 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2024-10-22 11:35:05,931 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2024-10-22 11:35:05,958 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,959 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,959 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,959 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,959 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,959 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,959 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,959 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,959 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,959 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,959 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,959 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,960 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,960 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,960 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,960 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,960 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,960 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,960 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,960 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,960 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,960 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,960 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2024-10-22 11:35:05,961 [Worker-9: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2024-10-22 11:35:08,780 [Worker-3: Android SDK Content Loader] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2024-10-22 13:21:17,677 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2024-10-22 13:21:18,277 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk1521276755/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2024-10-22 13:21:18,279 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2024-10-22 13:21:18,279 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk1521276755/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2024-10-22 13:21:18,279 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2024-10-22 13:21:18,290 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2024-10-22 13:21:18,290 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2024-10-22 13:21:18,295 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2024-10-22 13:21:18,982 [Framework stop - Equinox Container: 4d801ff4-bef8-4dbb-a0e4-544a6be9bc23] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2024-10-22 13:21:19,254 [Framework stop - Equinox Container: 4d801ff4-bef8-4dbb-a0e4-544a6be9bc23] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2024-10-22 13:21:19,380 [Framework stop - Equinox Container: 4d801ff4-bef8-4dbb-a0e4-544a6be9bc23] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2024-10-22 13:21:19,380 [Framework stop - Equinox Container: 4d801ff4-bef8-4dbb-a0e4-544a6be9bc23] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2025-02-17 10:03:24,598 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-17 10:03:24,603 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-17 10:03:24,611 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-17 10:03:24,660 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-17 10:03:25,010 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-17 10:03:25,143 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-17 10:03:25,378 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-17 10:03:25,379 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-17 10:03:25,398 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-17 10:03:25,398 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-17 10:03:25,442 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-17 10:03:25,442 [Worker-20: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-17 10:03:25,496 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-17 10:03:25,498 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-17 10:03:25,539 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,539 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,539 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,539 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,539 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,539 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,539 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,539 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,540 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,540 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,540 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,540 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,540 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,541 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,541 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,541 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,541 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,541 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,541 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,541 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,541 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,542 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,542 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,542 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,542 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,542 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,542 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,542 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,542 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,542 [Worker-20: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 10:03:25,542 [Worker-20: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-17 10:03:25,543 [Worker-20: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-17 10:03:25,543 [Worker-20: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-17 10:03:25,543 [Worker-20: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-17 10:03:25,543 [Worker-20: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-17 10:03:25,544 [Worker-20: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-17 10:03:25,544 [Worker-20: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-17 10:03:25,544 [Worker-20: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-17 10:03:25,544 [Worker-20: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-17 10:03:25,544 [Worker-20: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2025-02-17 10:12:20,318 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2025-02-17 10:12:20,899 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk373712888/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-17 10:12:20,901 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-17 10:12:20,901 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk373712888/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-17 10:12:20,901 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-17 10:12:20,907 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2025-02-17 10:12:20,923 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2025-02-17 10:12:20,940 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2025-02-17 10:12:23,136 [Framework stop - Equinox Container: 49106cca-8b22-4a3b-8763-7f165d1a570d] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2025-02-17 10:12:23,459 [Framework stop - Equinox Container: 49106cca-8b22-4a3b-8763-7f165d1a570d] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2025-02-17 10:12:23,508 [Framework stop - Equinox Container: 49106cca-8b22-4a3b-8763-7f165d1a570d] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2025-02-17 10:12:23,508 [Framework stop - Equinox Container: 49106cca-8b22-4a3b-8763-7f165d1a570d] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2025-02-17 17:55:37,294 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-17 17:55:37,305 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-17 17:55:37,305 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-17 17:55:37,335 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-17 17:55:37,707 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-17 17:55:37,883 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-17 17:55:38,037 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-17 17:55:38,040 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-17 17:55:38,069 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-17 17:55:38,070 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-17 17:55:38,140 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-17 17:55:38,150 [Worker-5: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-17 17:55:38,334 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-17 17:55:38,339 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-17 17:55:38,380 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,381 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,381 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,381 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,381 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,381 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,381 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,381 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,381 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,382 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,382 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,382 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,382 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,382 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,382 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,382 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,382 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,384 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,385 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,386 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,386 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,386 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,392 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,393 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,394 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,394 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,394 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,394 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,394 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,394 [Worker-5: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 17:55:38,395 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-17 17:55:38,395 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-17 17:55:38,395 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-17 17:55:38,395 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-17 17:55:38,395 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-17 17:55:38,395 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-17 17:55:38,395 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-17 17:55:38,395 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-17 17:55:38,395 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-17 17:55:38,395 [Worker-5: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2025-02-17 18:06:41,304 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2025-02-17 18:06:41,439 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk92413649/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-17 18:06:41,440 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-17 18:06:41,440 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk92413649/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-17 18:06:41,440 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-17 18:06:41,442 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2025-02-17 18:06:41,443 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2025-02-17 18:06:41,448 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2025-02-17 18:06:41,950 [Framework stop - Equinox Container: c3bf0ece-a7aa-49a9-a959-bb6e9cc4c9c8] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2025-02-17 18:06:42,057 [Framework stop - Equinox Container: c3bf0ece-a7aa-49a9-a959-bb6e9cc4c9c8] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2025-02-17 18:06:42,076 [Framework stop - Equinox Container: c3bf0ece-a7aa-49a9-a959-bb6e9cc4c9c8] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2025-02-17 18:06:42,076 [Framework stop - Equinox Container: c3bf0ece-a7aa-49a9-a959-bb6e9cc4c9c8] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2025-02-17 18:13:18,096 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-17 18:13:18,098 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-17 18:13:18,098 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-17 18:13:18,104 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-17 18:13:18,249 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-17 18:13:18,347 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-17 18:13:18,543 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-17 18:13:18,558 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-17 18:13:18,607 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-17 18:13:18,610 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-17 18:13:18,661 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-17 18:13:18,662 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-17 18:13:18,894 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-17 18:13:18,899 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-17 18:13:19,009 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,011 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,011 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,011 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,011 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,013 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,023 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,026 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,028 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,029 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,031 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,031 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,031 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,031 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,031 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,031 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,048 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,048 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,048 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,048 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,049 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,049 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,087 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,091 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,092 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,093 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,097 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,099 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,099 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,099 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 18:13:19,100 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-17 18:13:19,100 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-17 18:13:19,100 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-17 18:13:19,100 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-17 18:13:19,100 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-17 18:13:19,100 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-17 18:13:19,100 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-17 18:13:19,100 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-17 18:13:19,100 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-17 18:13:19,100 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2025-02-17 19:21:16,500 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-17 19:21:16,500 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-17 19:21:16,501 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-17 19:21:16,503 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-17 19:21:16,526 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-17 19:21:16,568 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-17 19:21:16,600 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-17 19:21:16,600 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-17 19:21:16,609 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-17 19:21:16,610 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-17 19:21:16,617 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-17 19:21:16,617 [Worker-21: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-17 19:21:16,654 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-17 19:21:16,656 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,670 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-17 19:21:16,671 [Worker-21: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-17 19:21:16,672 [Worker-21: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-17 19:21:16,672 [Worker-21: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-17 19:21:16,672 [Worker-21: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-17 19:21:16,672 [Worker-21: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-17 19:21:16,672 [Worker-21: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-17 19:21:16,672 [Worker-21: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2025-02-17 19:21:17,799 [Worker-2: Android SDK Content Loader] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2025-02-17 19:31:02,180 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2025-02-17 19:31:02,375 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk92413649/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-17 19:31:02,375 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-17 19:31:02,375 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk92413649/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-17 19:31:02,375 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-17 19:31:02,379 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2025-02-17 19:31:02,380 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2025-02-17 19:31:02,383 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2025-02-17 19:31:02,786 [Framework stop - Equinox Container: 9f9187c3-a6f9-447f-8d3b-5d51b6f52715] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2025-02-17 19:31:02,949 [Framework stop - Equinox Container: 9f9187c3-a6f9-447f-8d3b-5d51b6f52715] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2025-02-17 19:31:02,979 [Framework stop - Equinox Container: 9f9187c3-a6f9-447f-8d3b-5d51b6f52715] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2025-02-17 19:31:02,979 [Framework stop - Equinox Container: 9f9187c3-a6f9-447f-8d3b-5d51b6f52715] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2025-02-17 19:31:36,472 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-17 19:31:36,473 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-17 19:31:36,473 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-17 19:31:36,476 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-17 19:31:36,500 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-17 19:31:36,523 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-17 19:31:36,558 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-17 19:31:36,559 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-17 19:31:36,564 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-17 19:31:36,564 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-17 19:31:36,575 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-17 19:31:36,575 [Worker-22: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-17 19:31:36,611 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-17 19:31:36,613 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-17 19:31:36,625 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,625 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,625 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,625 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,625 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,625 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,625 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,625 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,625 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,625 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-17 19:31:36,626 [Worker-22: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-17 19:31:36,627 [Worker-22: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-17 19:31:36,627 [Worker-22: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-17 19:31:36,627 [Worker-22: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-17 19:31:36,627 [Worker-22: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-17 19:31:36,627 [Worker-22: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-17 19:31:36,627 [Worker-22: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-17 19:31:36,627 [Worker-22: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-17 19:31:36,627 [Worker-22: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2025-02-17 19:31:37,655 [Worker-20: Android SDK Content Loader] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2025-02-18 06:25:42,067 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2025-02-18 06:25:42,147 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk271064838/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-18 06:25:42,148 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-18 06:25:42,148 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk271064838/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-18 06:25:42,148 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-18 06:25:42,149 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2025-02-18 06:25:42,149 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2025-02-18 06:25:42,156 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2025-02-18 06:25:43,056 [Framework stop - Equinox Container: 9598dc1b-d3f8-40eb-a420-e7b41f91f8f0] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2025-02-18 06:25:43,488 [Framework stop - Equinox Container: 9598dc1b-d3f8-40eb-a420-e7b41f91f8f0] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2025-02-18 06:25:43,601 [Framework stop - Equinox Container: 9598dc1b-d3f8-40eb-a420-e7b41f91f8f0] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2025-02-18 06:25:43,602 [Framework stop - Equinox Container: 9598dc1b-d3f8-40eb-a420-e7b41f91f8f0] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2025-02-18 08:22:49,016 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-18 08:22:49,017 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-18 08:22:49,018 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-18 08:22:49,022 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-18 08:22:49,060 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-18 08:22:49,139 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-18 08:22:49,225 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-18 08:22:49,225 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-18 08:22:49,245 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-18 08:22:49,248 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-18 08:22:49,277 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-18 08:22:49,278 [Worker-17: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-18 08:22:49,340 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-18 08:22:49,345 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-18 08:22:49,360 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,360 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,360 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,360 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,361 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-18 08:22:49,362 [Worker-17: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-18 08:22:49,363 [Worker-17: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2025-02-18 08:22:50,078 [Worker-15: Android SDK Content Loader] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2025-02-18 09:42:18,613 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2025-02-18 09:42:18,679 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk271064838/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-18 09:42:18,681 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-18 09:42:18,682 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk271064838/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-18 09:42:18,682 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-18 09:42:18,683 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2025-02-18 09:42:18,684 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2025-02-18 09:42:18,690 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2025-02-18 09:42:19,462 [Framework stop - Equinox Container: 78621186-6a9a-4a46-90a0-ddfb1463406b] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2025-02-18 09:42:19,779 [Framework stop - Equinox Container: 78621186-6a9a-4a46-90a0-ddfb1463406b] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2025-02-18 09:42:19,849 [Framework stop - Equinox Container: 78621186-6a9a-4a46-90a0-ddfb1463406b] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2025-02-18 09:42:19,849 [Framework stop - Equinox Container: 78621186-6a9a-4a46-90a0-ddfb1463406b] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2025-02-18 21:00:49,604 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-18 21:00:49,605 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-18 21:00:49,605 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-18 21:00:49,608 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-18 21:00:49,640 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-18 21:00:49,674 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-18 21:00:49,701 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-18 21:00:49,701 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-18 21:00:49,707 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-18 21:00:49,708 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-18 21:00:49,721 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-18 21:00:49,721 [Worker-18: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-18 21:00:49,758 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-18 21:00:49,759 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-18 21:00:49,777 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,778 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,778 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,778 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,778 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,778 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,779 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,780 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,780 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,780 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,780 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,780 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,780 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,780 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,780 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-18 21:00:49,781 [Worker-18: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2025-02-18 21:00:51,816 [Worker-17: Android SDK Content Loader] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2025-02-18 23:54:29,756 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2025-02-18 23:54:29,851 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk765092616/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-18 23:54:29,853 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-18 23:54:29,853 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk765092616/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-18 23:54:29,853 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-18 23:54:29,854 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2025-02-18 23:54:29,854 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2025-02-18 23:54:29,862 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2025-02-18 23:54:30,661 [Framework stop - Equinox Container: 34f06e9c-7948-4354-b3cd-d345a5f65634] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2025-02-18 23:54:31,399 [Framework stop - Equinox Container: 34f06e9c-7948-4354-b3cd-d345a5f65634] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2025-02-18 23:54:31,464 [Framework stop - Equinox Container: 34f06e9c-7948-4354-b3cd-d345a5f65634] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2025-02-18 23:54:31,464 [Framework stop - Equinox Container: 34f06e9c-7948-4354-b3cd-d345a5f65634] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2025-02-19 20:45:57,617 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-19 20:45:57,618 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-19 20:45:57,618 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-19 20:45:57,622 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-19 20:45:57,655 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-19 20:45:57,707 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-19 20:45:57,753 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-19 20:45:57,754 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-19 20:45:57,761 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-19 20:45:57,762 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-19 20:45:57,781 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-19 20:45:57,781 [Worker-3: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-19 20:45:57,821 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-19 20:45:57,823 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-19 20:45:57,834 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,835 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-19 20:45:57,836 [Worker-3: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2025-02-20 16:17:38,880 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-20 16:17:38,881 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-20 16:17:38,885 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-20 16:17:38,902 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-20 16:17:38,928 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-20 16:17:38,970 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-20 16:17:39,007 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-20 16:17:39,008 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-20 16:17:39,045 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-20 16:17:39,046 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-20 16:17:39,057 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-20 16:17:39,058 [Worker-26: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-20 16:17:39,075 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,076 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-20 16:17:39,077 [Worker-26: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2025-02-20 16:17:39,741 [Worker-18: Android SDK Content Loader] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2025-02-20 16:17:41,548 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-20 16:17:41,554 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-20 16:17:41,559 [Worker-18: Android SDK Content Loader] INFO  Studio for Android - Added instance My-Emulator-Playstore using default emulator definitions 
+2025-02-20 23:58:46,382 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2025-02-20 23:58:46,858 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk271064838/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-20 23:58:46,863 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-20 23:58:46,863 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk271064838/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-20 23:58:46,863 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-20 23:58:46,867 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2025-02-20 23:58:46,869 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2025-02-20 23:58:46,891 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2025-02-20 23:58:49,127 [Framework stop - Equinox Container: 8b880382-653a-49ef-b13c-038477decfe3] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2025-02-20 23:58:50,402 [Framework stop - Equinox Container: 8b880382-653a-49ef-b13c-038477decfe3] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2025-02-20 23:58:50,760 [Framework stop - Equinox Container: 8b880382-653a-49ef-b13c-038477decfe3] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2025-02-20 23:58:50,760 [Framework stop - Equinox Container: 8b880382-653a-49ef-b13c-038477decfe3] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2025-02-20 23:59:33,172 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-20 23:59:33,172 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-20 23:59:33,173 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-20 23:59:33,177 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-20 23:59:33,223 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-20 23:59:33,289 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-20 23:59:33,367 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-20 23:59:33,369 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-20 23:59:33,379 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-20 23:59:33,380 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-20 23:59:33,393 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-20 23:59:33,393 [Worker-10: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-20 23:59:33,477 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-20 23:59:33,485 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-20 23:59:33,523 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,523 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,523 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,523 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,523 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,524 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,524 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,524 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,524 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,524 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,524 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,525 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,525 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,526 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,528 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,530 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,530 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,531 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,531 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,531 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,534 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,534 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,535 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,535 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,535 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,536 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-20 23:59:33,538 [Worker-10: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2025-02-20 23:59:33,734 [Worker-13: Android SDK Content Loader] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2025-02-21 00:10:48,522 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2025-02-21 00:10:48,793 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk896576140/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-21 00:10:48,794 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-21 00:10:48,794 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk896576140/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-21 00:10:48,795 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-21 00:10:48,802 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2025-02-21 00:10:48,803 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2025-02-21 00:10:48,806 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2025-02-21 00:10:49,573 [Framework stop - Equinox Container: 25ef399f-8c28-4ebe-924c-edc1c47847d8] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2025-02-21 00:10:49,772 [Framework stop - Equinox Container: 25ef399f-8c28-4ebe-924c-edc1c47847d8] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2025-02-21 00:10:49,789 [Framework stop - Equinox Container: 25ef399f-8c28-4ebe-924c-edc1c47847d8] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2025-02-21 00:10:49,789 [Framework stop - Equinox Container: 25ef399f-8c28-4ebe-924c-edc1c47847d8] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2025-02-25 09:58:01,603 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-25 09:58:01,604 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-25 09:58:01,604 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-25 09:58:01,605 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-25 09:58:01,632 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-25 09:58:01,668 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-25 09:58:01,701 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-25 09:58:01,702 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-25 09:58:01,710 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-25 09:58:01,711 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-25 09:58:01,722 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-25 09:58:01,722 [Worker-8: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-25 09:58:01,765 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-25 09:58:01,768 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-25 09:58:01,783 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,783 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,783 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,783 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,783 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,783 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,784 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,784 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,784 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,784 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,784 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,784 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,784 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,784 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-25 09:58:01,785 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-25 09:58:01,786 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-25 09:58:01,786 [Worker-8: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
+2025-02-25 09:58:02,903 [Worker-9: Android SDK Content Loader] DEBUG class org.eclipse.andmore.android.AndroidPlugin - Notify SDK loader listeners
+2025-02-25 10:13:29,400 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Core Plugin...
+2025-02-25 10:13:29,464 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk1117560569/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-25 10:13:29,465 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-25 10:13:29,465 [main] DEBUG Studio for Android - JDBC Driver Location:bundleentry://1237.fwk1117560569/res/androidjdbc.jar JDBC Driver getBundle().getLocation():reference:file:../../../../../../Users/ASUS/.eclipse/org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64/plugins/org.eclipse.andmore.android.common_0.5.1.201701251432.jar
+2025-02-25 10:13:29,465 [main] DEBUG Studio for Android - JDBC Driver Path:C:\Users\ASUS\.eclipse\org.eclipse.platform_4.26.0_90929211_win32_win32_x86_64\configuration\org.eclipse.osgi\1237\0\.cp\res\androidjdbc.jar
+2025-02-25 10:13:29,466 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Core Plugin started.
+2025-02-25 10:13:29,466 [main] DEBUG class java.lang.Class - Starting Eclipse Andmore Database Devices Support Plugin...
+2025-02-25 10:13:29,472 [main] DEBUG class java.lang.Class - Eclipse Andmore Database Devices Support Plugin started...
+2025-02-25 10:13:30,017 [Framework stop - Equinox Container: 2a13235a-a317-4b04-8ab2-f0ddf856aed3] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.start.StartServicePlugin-SHUTDOWN
+2025-02-25 10:13:30,184 [Framework stop - Equinox Container: 2a13235a-a317-4b04-8ab2-f0ddf856aed3] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.ui.DeviceUIPlugin-SHUTDOWN
+2025-02-25 10:13:30,204 [Framework stop - Equinox Container: 2a13235a-a317-4b04-8ab2-f0ddf856aed3] DEBUG Studio for Android - org.eclipse.sequoyah.device.service.stop.StopServicePlugin-SHUTDOWN
+2025-02-25 10:13:30,205 [Framework stop - Equinox Container: 2a13235a-a317-4b04-8ab2-f0ddf856aed3] DEBUG Studio for Android - org.eclipse.sequoyah.device.framework.DevicePlugin-SHUTDOWN
+2025-02-26 01:01:30,751 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2025-02-26 01:01:30,753 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2025-02-26 01:01:30,754 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2025-02-26 01:01:30,757 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Plugin started.
+2025-02-26 01:01:31,179 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2025-02-26 01:01:31,642 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2025-02-26 01:01:31,748 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2025-02-26 01:01:31,748 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2025-02-26 01:01:31,774 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2025-02-26 01:01:31,775 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2025-02-26 01:01:31,820 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2025-02-26 01:01:31,820 [Worker-7: Executing the early startup extensions] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2025-02-26 01:01:33,615 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: OFF
+2025-02-26 01:01:33,858 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: My-Emulator-Playstore Status: org.eclipse.andmore.android.emulator.status.notavailable
+2025-02-26 01:01:34,043 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,044 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,044 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,044 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,044 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,044 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,045 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,045 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,047 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,048 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,048 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,049 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,049 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,049 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,049 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,049 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,050 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,050 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,050 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,050 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,050 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,050 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,052 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,052 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,052 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,052 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,052 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] ERROR Studio for Android - Handler could not be instanced(PLUGIN=org.eclipse.sequoyah.device.framework;ERROR=202)
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2025-02-26 01:01:34,053 [Worker-7: Executing the early startup extensions] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]

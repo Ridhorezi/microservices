@@ -1,0 +1,15 @@
+package com.microservices.accounts.service.impl;
+
+import com.microservices.accounts.dto.CustomerDto;
+import com.microservices.accounts.service.IAccountsService;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class AccountsServiceImpl implements IAccountsService {
+
+	@Override
+	public void createAccount(CustomerDto customerDto) {
+		
+	}
+}

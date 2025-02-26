@@ -1,0 +1,5 @@
+package com.microservices.accounts.exception;
+
+public class GlobalExceptionHandler {
+
+}
