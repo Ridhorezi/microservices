@@ -2,6 +2,10 @@ package com.microservices.accounts.service;
 
 import com.microservices.accounts.dto.CustomerDto;
 
+/**
+ * @author Ridho Suhaebi Arrowi
+ */
+
 public interface IAccountsService {
 
 	/**
@@ -32,4 +36,5 @@ public interface IAccountsService {
 	 *         not
 	 */
 	boolean deleteAccount(String mobileNumber);
+
 }

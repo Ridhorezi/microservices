@@ -1,5 +1,9 @@
 package com.microservices.accounts.constants;
 
+/**
+ * @author Ridho Suhaebi Arrowi
+ */
+
 public class AccountsConstants {
 
 	private AccountsConstants() {

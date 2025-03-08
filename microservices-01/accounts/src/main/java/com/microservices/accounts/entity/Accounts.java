@@ -2,6 +2,10 @@ package com.microservices.accounts.entity;
 
 import jakarta.persistence.*;
 
+/**
+ * @author Ridho Suhaebi Arrowi
+ */
+
 @Entity
 public class Accounts extends BaseEntity {
 
@@ -58,5 +62,16 @@ public class Accounts extends BaseEntity {
 
 	public void setBranchAddress(String branchAddress) {
 		this.branchAddress = branchAddress;
+	}
+
+	@Override
+	public String toString() {
+		return "Accounts [customerId=" + customerId + ", accountNumber=" + accountNumber + ", accountType="
+				+ accountType + ", branchAddress=" + branchAddress + ", getCustomerId()=" + getCustomerId()
+				+ ", getAccountNumber()=" + getAccountNumber() + ", getAccountType()=" + getAccountType()
+				+ ", getBranchAddress()=" + getBranchAddress() + ", getCreatedAt()=" + getCreatedAt()
+				+ ", getCreatedBy()=" + getCreatedBy() + ", getUpdatedAt()=" + getUpdatedAt() + ", getUpdatedBy()="
+				+ getUpdatedBy() + ", toString()=" + super.toString() + ", getClass()=" + getClass() + ", hashCode()="
+				+ hashCode() + "]";
 	}
 }

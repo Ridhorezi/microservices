@@ -19,6 +19,10 @@ import java.util.Map;
 
 import com.microservices.accounts.dto.ErrorResponseDto;
 
+/**
+ * @author Ridho Suhaebi Arrowi
+ */
+
 @ControllerAdvice
 public class GlobalExceptionHandler extends ResponseEntityExceptionHandler {
 

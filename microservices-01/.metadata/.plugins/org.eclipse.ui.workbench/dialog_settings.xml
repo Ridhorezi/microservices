@@ -2,7 +2,9 @@
 <section name="Workbench">
 	<section name="PreferencesImportWizard">
 		<item key="" value="D:\project-java-spring\Prereferences-Setting\prefs.epf"/>
+		<item key="" value="D:\emf\preferences-setting\report-preferences.epf"/>
 		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="D:\emf\preferences-setting\report-preferences.epf"/>
 			<item value="D:\project-java-spring\Prereferences-Setting\prefs.epf"/>
 		</list>
 	</section>

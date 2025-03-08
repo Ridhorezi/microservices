@@ -3,6 +3,10 @@ package com.microservices.accounts.mapper;
 import com.microservices.accounts.dto.AccountsDto;
 import com.microservices.accounts.entity.Accounts;
 
+/**
+ * @author Ridho Suhaebi Arrowi
+ */
+
 public class AccountsMapper {
 
 	public static AccountsDto mapToAccountsDto(Accounts accounts, AccountsDto accountsDto) {
@@ -18,4 +22,5 @@ public class AccountsMapper {
 		accounts.setBranchAddress(accountsDto.getBranchAddress());
 		return accounts;
 	}
+
 }

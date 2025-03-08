@@ -1,19 +1,21 @@
 package com.microservices.accounts.entity;
 
-import org.hibernate.annotations.GenericGenerator;
-
 import jakarta.persistence.*;
+
+/**
+ * @author Ridho Suhaebi Arrowi
+ */
 
 @Entity
 public class Customer extends BaseEntity {
 
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO, generator = "native")
-	@GenericGenerator(name = "native", strategy = "native")
 	@Column(name = "customer_id")
 	private Long customerId;
 
 	private String name;
+	
 	private String email;
 
 	@Column(name = "mobile_number")
@@ -59,5 +61,15 @@ public class Customer extends BaseEntity {
 
 	public void setMobileNumber(String mobileNumber) {
 		this.mobileNumber = mobileNumber;
+	}
+
+	@Override
+	public String toString() {
+		return "Customer [customerId=" + customerId + ", name=" + name + ", email=" + email + ", mobileNumber="
+				+ mobileNumber + ", getCustomerId()=" + getCustomerId() + ", getName()=" + getName() + ", getEmail()="
+				+ getEmail() + ", getMobileNumber()=" + getMobileNumber() + ", getCreatedAt()=" + getCreatedAt()
+				+ ", getCreatedBy()=" + getCreatedBy() + ", getUpdatedAt()=" + getUpdatedAt() + ", getUpdatedBy()="
+				+ getUpdatedBy() + ", toString()=" + super.toString() + ", getClass()=" + getClass() + ", hashCode()="
+				+ hashCode() + "]";
 	}
 }

@@ -10,12 +10,17 @@ import org.springframework.stereotype.Repository;
 
 import jakarta.transaction.Transactional;
 
+/**
+ * @author Ridho Suhaebi Arrowi
+ */
+
 @Repository
 public interface AccountsRepository extends JpaRepository<Accounts, Long> {
-	
-	Optional<Accounts> findByCustomerId(Long customerId);
 
-	@Transactional
-	@Modifying
-	void deleteByCustomerId(Long customerId);
+    Optional<Accounts> findByCustomerId(Long customerId);
+
+    @Transactional
+    @Modifying
+    void deleteByCustomerId(Long customerId);
+
 }
