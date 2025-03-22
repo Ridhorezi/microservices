@@ -1,13 +1,13 @@
 
-o
-java:S17109"<Remove the 'ApiResponses' wrapper from this annotation group(¶¤£½8°ó°úÕ2HğRMINORZ
-CODE_SMELL
 t
-java:S1710/"<Remove the 'ApiResponses' wrapper from this annotation group(…ù›çûÿÿÿÿ8°ó°úÕ2HïRMINORZ
+java:S1710/"<Remove the 'ApiResponses' wrapper from this annotation group(…ù›çûÿÿÿÿ8°ó°úÕ2HÇRMINORZ
 CODE_SMELL
 o
-java:S1710S"<Remove the 'ApiResponses' wrapper from this annotation group(¶¤£½8°ó°úÕ2H¿RMINORZ
+java:S1710S"<Remove the 'ApiResponses' wrapper from this annotation group(¶¤£½8°ó°úÕ2HÉRMINORZ
 CODE_SMELL
 o
-java:S1710C"<Remove the 'ApiResponses' wrapper from this annotation group(¶¤£½8°ó°úÕ2HñRMINORZ
+java:S1710C"<Remove the 'ApiResponses' wrapper from this annotation group(¶¤£½8°ó°úÕ2HÈRMINORZ
+CODE_SMELL
+o
+java:S17109"<Remove the 'ApiResponses' wrapper from this annotation group(¶¤£½8°ó°úÕ2HÊRMINORZ
 CODE_SMELL
