@@ -2,6 +2,7 @@ D:\project-java-spring\microservices\microservices-01\loans\src\main\java\com\mi
 D:\project-java-spring\microservices\microservices-01\loans\src\main\java\com\microservices\loans\constants\LoansConstants.java
 D:\project-java-spring\microservices\microservices-01\loans\src\main\java\com\microservices\loans\controller\LoansController.java
 D:\project-java-spring\microservices\microservices-01\loans\src\main\java\com\microservices\loans\dto\ErrorResponseDto.java
+D:\project-java-spring\microservices\microservices-01\loans\src\main\java\com\microservices\loans\dto\LoansContactInfoDto.java
 D:\project-java-spring\microservices\microservices-01\loans\src\main\java\com\microservices\loans\dto\LoansDto.java
 D:\project-java-spring\microservices\microservices-01\loans\src\main\java\com\microservices\loans\dto\ResponseDto.java
 D:\project-java-spring\microservices\microservices-01\loans\src\main\java\com\microservices\loans\entity\BaseEntity.java
