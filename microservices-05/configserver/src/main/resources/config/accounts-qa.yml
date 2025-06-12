@@ -1,0 +1,10 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to Bank accounts related QA APIs "
+  contactDetails:
+    name: "Ridho Suhaebi Arrowi - Developer"
+    email: "ridhorezi1212@gmail.com"
+  onCallSupport:
+    - (62) 81212121212
