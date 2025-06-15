@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to Bank accounts related prod APIs "
+  contactDetails:
+    name: "Ridho Suhaebi Arrowi - Developer"
+    email: "ridhorezi1212@gmail.com"
+  onCallSupport:
+    - (62) 81212121212
