@@ -94,13 +94,13 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 
 |     Docker Command       |     Description          |
 | ------------- | ------------- |
-| "docker build . -t eazybytes/accounts:s4" | To generate a docker image based on a Dockerfile |
-| "docker run  -p 8080:8080 eazybytes/accounts:s4" | To start a docker container based on a given image |
+| "docker build . -t ridhorezi1212/accounts:s4" | To generate a docker image based on a Dockerfile |
+| "docker run  -p 8080:8080 ridhorezi1212/accounts:s4" | To start a docker container based on a given image |
 | "docker images" | To list all the docker images present in the Docker server |
 | "docker image inspect image-id" | To display detailed image information for a given image id |
 | "docker image rm image-id" | To remove one or more images for a given image ids |
-| "docker image push docker.io/eazybytes/accounts:s4" | To push an image or a repository to a registry |
-| "docker image pull docker.io/eazybytes/accounts:s4" | To pull an image or a repository from a registry |
+| "docker image push docker.io/ridhorezi1212/accounts:s4" | To push an image or a repository to a registry |
+| "docker image pull docker.io/ridhorezi1212/accounts:s4" | To pull an image or a repository from a registry |
 | "docker ps" | To show all running containers |
 | "docker ps -a" | To show all containers including running and stopped |
 | "docker container start container-id" | To start one or more stopped containers |
@@ -119,7 +119,7 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 | "docker compose start" | To start containers based on given docker compose file |
 | "docker compose down" | To stop the running containers |
 | "docker run -p 3306:3306 --name accountsdb -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=accountsdb -d mysql" | To create a MySQL DB container |
-| "docker run -p 6379:6379 --name eazyredis -d redis" | To create a Redis Container |
+| "docker run -p 6379:6379 --name redis -d redis" | To create a Redis Container |
 | "docker run -p 8080:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:22.0.3 start-dev" | To create Keycloak Container|
 
 
@@ -127,7 +127,7 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 
 |     Apache Benchmark command      |     Description          |
 | ------------- | ------------- |
-| "ab -n 10 -c 2 -v 3 http://localhost:8072/eazybank/cards/api/contact-info" | To perform load testing on API by sending 10 requests |
+| "ab -n 10 -c 2 -v 3 http://localhost:8072/bank/cards/api/contact-info" | To perform load testing on API by sending 10 requests |
 
 ## Kubernetes Commands used in the course
 
@@ -152,7 +152,7 @@ Learn how to create enterprise and production ready Microservices with Spring, S
 | "kubectl get configmap configmap-id" | To get the details of a given configmap |
 | "kubectl get events --sort-by=.metadata.creationTimestamp" | To get all the events occured inside your cluster |
 | "kubectl scale deployment accounts-deployment --replicas=1" | To set the number of replicas for a deployment inside your cluster |
-| "kubectl set image deployment gatewayserver-deployment gatewayserver=eazybytes/gatewayserver:s11 --record" | To set a new image for a deployment inside your cluster |
+| "kubectl set image deployment gatewayserver-deployment gatewayserver=ridhorezi1212/gatewayserver:s11 --record" | To set a new image for a deployment inside your cluster |
 | "kubectl rollout history deployment gatewayserver-deployment" | To know the rollout history for a deployment inside your cluster |
 | "kubectl rollout undo deployment gatewayserver-deployment --to-revision=1" | To rollback to a given revision for a deployment inside your cluster |
 | "kubectl get pvc" | To list the pvcs inside your cluster |
