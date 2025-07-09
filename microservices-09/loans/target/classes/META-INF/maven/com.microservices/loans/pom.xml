@@ -99,7 +99,7 @@
 				<version>3.4.2</version>
 				<configuration>
 					<to>
-						<image>ridhorezi1212/${project.artifactId}:s12</image>
+						<image>ridhorezi1212/${project.artifactId}:s13</image>
 					</to>
 				</configuration>
 			</plugin>

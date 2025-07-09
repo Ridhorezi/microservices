@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Bank loans related local APIs "
+  contactDetails:
+    name: "Ridho Suhaebi Arrowi - Developer"
+    email: "ridhorezi1212@gmail.com"
+  onCallSupport:
+    - (62) 81212121212

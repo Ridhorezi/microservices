@@ -1,5 +1,21 @@
 name: microservices
 services:
+  rabbit:
+    image: rabbitmq:4.0-management
+    hostname: rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    healthcheck:
+      test: rabbitmq-diagnostics check_port_connectivity
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 5s
+    extends:
+      file: common-config.yml
+      service: network-deploy-service
+      
   keycloak:
     image: quay.io/keycloak/keycloak:26.0.7
     container_name: keycloak
@@ -229,7 +245,7 @@ services:
       service: network-deploy-service
       
   configserver:
-    image: "ridhorezi1212/configserver:s12"
+    image: "ridhorezi1212/configserver:s13"
     container_name: configserver-ms
     ports:
       - "8088:8088"
@@ -246,7 +262,7 @@ services:
       OTEL_SERVICE_NAME: "configserver"
       
   eurekaserver:
-    image: "ridhorezi1212/eurekaserver:s12"
+    image: "ridhorezi1212/eurekaserver:s13"
     container_name: eurekaserver-ms
     ports:
       - "8089:8089"
@@ -267,7 +283,7 @@ services:
       OTEL_SERVICE_NAME: "eurekaserver"
 
   accounts:
-    image: "ridhorezi1212/accounts:s12"
+    image: "ridhorezi1212/accounts:s13"
     container_name: accounts-ms
     ports:
       - "8085:8085"
@@ -275,6 +291,8 @@ services:
       configserver:
         condition: service_healthy
       eurekaserver:
+        condition: service_healthy
+      rabbit:
         condition: service_healthy
     healthcheck:
       test: "curl --fail --silent localhost:8088/actuator/health/readiness | grep UP || exit 1"
@@ -288,9 +306,10 @@ services:
     environment:
       SPRING_APPLICATION_NAME: "accounts"
       OTEL_SERVICE_NAME: "accounts"
+      SPRING_RABBITMQ_HOST: "rabbit"
 
   loans:
-    image: "ridhorezi1212/loans:s12"
+    image: "ridhorezi1212/loans:s13"
     container_name: loans-ms
     ports:
       - "8087:8087"
@@ -313,7 +332,7 @@ services:
       OTEL_SERVICE_NAME: "loans"
 
   cards:
-    image: "ridhorezi1212/cards:s12"
+    image: "ridhorezi1212/cards:s13"
     container_name: cards-ms
     ports:
       - "8086:8086"
@@ -335,8 +354,20 @@ services:
       SPRING_APPLICATION_NAME: "cards"
       OTEL_SERVICE_NAME: "cards"
       
+  message:
+    image: "ridhorezi1212/message:s13"
+    container_name: message-ms
+    depends_on:
+      rabbit:
+        condition: service_healthy
+    environment:
+      SPRING_RABBITMQ_HOST: "rabbit"
+    extends:
+      file: common-config.yml
+      service: network-deploy-service
+      
   gatewayserver:
-    image: "ridhorezi1212/gatewayserver:s12"
+    image: "ridhorezi1212/gatewayserver:s13"
     container_name: gatewayserver-ms
     ports:
       - "8880:8880"
