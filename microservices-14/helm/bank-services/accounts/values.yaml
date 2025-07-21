@@ -1,0 +1,28 @@
+# This is a YAML-formatted file.
+# Declare variables to be passed into your templates.
+
+deploymentName: accounts-deployment
+serviceName: accounts
+appLabel: accounts
+appName: accounts
+
+replicaCount: 2
+
+image:
+  repository: ridhorezi1212/accounts
+  tag: s15
+
+containerPort: 8085
+
+service:
+  type: ClusterIP
+  port: 8085
+  targetPort: 8085
+
+appname_enabled: true
+profile_enabled: true
+config_enabled: true
+discovery_enabled: true
+resouceserver_enabled: false
+otel_enabled: true
+kafka_enabled: true
