@@ -1,173 +1,190 @@
-# Learning Microservices with Spring Boot, Docker, Kubernetes
+# ☁️ Learning Microservices with Spring Boot, Docker & Kubernetes
 
-Learn how to create enterprise and production ready Microservices with Spring, Spring Cloud, Docker and Kubernetes.
+## 👤 About Me
 
-## Topics covered in the course
-* Section 1 - Introduction to Microservices Architecture
-* Section 2- Building microservices using Spring Boot
-* Section 3 - How do we right size our microservices & identify boundaries
-* Section 4 - Handle deployment, portability &  scalability of microservices using Docker
-* Section 5 - Deep Dive on Cloud Native Apps & 15-Factor methodology
-* Section 6 - Configurations Management in Microservices
-* Section 7 - Using MySQL DBs inside microservices
-* Section 8 - Service Discovery & Service Registration in microservices
-* Section 9 - Gateway, Routing & Cross cutting concerns in Microservices
-* Section 10 - Making Microservices Resilient
-* Section 11 - Observability and monitoring of microservices
-* Section 12 - Microservices Security
-* Section 13 - Event Driven microservices using RabbitMQ,Spring Cloud Functions & Stream
-* Section 14 - Event Driven microservices using Kafka,Spring Cloud Functions & Stream
-* Section 15 - Container Orchestration using Kubernetes
-* Section 16 - Deep dive on Helm
-* Section 17 - Server-side service discovery and load balancing using Kubernetes
-* Section 18 - Deploying microservices into cloud K8s cluster
-* Section 19 - Introduction to K8s Ingress, Service Mesh (Istio) & mTLS
-* Section 20 - Congratulations & Thank You
+Hi! I’m Ridho Suhaebi Arrowi, a software engineer diving into microservices and cloud-native architecture. This repo is my personal playground for mastering modern distributed systems.
 
-## Pre-requisite for the course
-- Good understanding on Java and Spring concepts
-- Basic understanding on SpringBoot & REST services is a bonus but not mandatory
-- Interest to learn and explore about Microservices
+## 📘 Overview
 
-# Important Links
-- Spring Boot - https://spring.io/projects/spring-boot
-- Create SpringBoot project - https://start.spring.io
-- DTO pattern blog - https://martinfowler.com/eaaCatalog/dataTransferObject.html
-- Model Mapper - http://modelmapper.org/
-- Map Struct - https://mapstruct.org/
-- Spring Doc - https://springdoc.org/
-- Open API - https://www.openapis.org/
-- Lucidchart Blog - https://www.lucidchart.com/blog/ddd-event-storming
-- Docker website - https://www.docker.com
-- Docker hub website - https://hub.docker.com
-- Buildpacks website - https://buildpacks.io
-- Google Jib website - https://github.com/GoogleContainerTools/jib
-- Docker compose website - https://docs.docker.com/compose/
-- Twelve-Factor methodology - https://12factor.net
-- Beyond the Twelve-Factor App book - https://www.oreilly.com/library/view/beyond-the-twelve-factor/9781492042631/
-- Spring Cloud website - https://spring.io/projects/spring-cloud
-- Spring Cloud Config website - https://spring.io/projects/spring-cloud-config
-- Spring Cloud Bus website - https://spring.io/projects/spring-cloud-bus
-- RabbitMQ website - https://www.rabbitmq.com
-- Hookdeck website- https://hookdeck.com
-- Spring Cloud Netflix website - https://spring.io/projects/spring-cloud-netflix
-- Spring Cloud OpenFeign - https://spring.io/projects/spring-cloud-openfeign
-- Netflix Blog - https://netflixtechblog.com/netflix-oss-and-spring-boot-coming-full-circle-4855947713a0
-- Resilience4j website - https://resilience4j.readme.io
-- Spring Cloud Gateway website - https://spring.io/projects/spring-cloud-gateway
-- Stripe RateLimitter pattern blog - https://stripe.com/blog/rate-limiters
-- Apache Benchmark website - https://httpd.apache.org
-- Grafana website - https://grafana.com
-- Grafana Loki setup - https://grafana.com/docs/loki/latest/get-started/quick-start/
-- Micrometer website - https://micrometer.io
-- Prometheus website - https://prometheus.io/
-- Grafana Dashboards - https://grafana.com/grafana/dashboards/
-- OpenTelemetry website - https://opentelemetry.io/
-- OpenTelemetry automatic instrumentation - https://opentelemetry.io/docs/instrumentation/java/automatic/
-- Keycloak website - https://www.keycloak.org/
-- Apache Kafka website - https://kafka.apache.org
-- Docker compose file for Kafka - https://github.com/bitnami/containers/blob/main/bitnami/kafka/docker-compose.yml
-- Local Kubernetes Cluster with Docker Desktop - https://docs.docker.com/desktop/kubernetes/
-- Kubernetes Dashboard - https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/
-- Helm website - https://helm.sh
-- Chocolatey website - https://chocolatey.org/
-- Bitnami Helm charts GitHub repo - https://github.com/bitnami/charts
-- Spring Cloud Kubernetes website - https://spring.io/projects/spring-cloud-kubernetes
-- Spring Cloud Kubernetes Blog - https://spring.io/blog/2021/10/26/new-features-for-spring-cloud-kubernetes-in-spring-cloud-2021-0-0-m3
-- GCP website - https://cloud.google.com
-- GCP SDK installation - https://cloud.google.com/sdk/docs/install
-- Kubernetes Ingress - https://kubernetes.io/docs/concepts/services-networking/ingress/
-- Ingress Controllers - https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/
-- Istio (Service mesh) - https://istio.io
+This repository documents my personal journey in learning how to build, containerize, orchestrate, and deploy Microservices using modern tools like **Spring Boot**, **Docker**, and **Kubernetes**.
 
+The project is structured around several key topics I’ve studied hands-on, including microservices architecture principles, cloud-native design patterns, containerization, service discovery, and resilience strategies.
 
-## Maven Commands used in the course
+---
 
-|     Maven Command       |     Description          |
-| ------------- | ------------- |
-| "mvn clean install -Dmaven.test.skip=true" | To generate a jar inside target folder |
-| "mvn spring-boot:run" | To start a springboot maven project |
-| "mvn spring-boot:build-image" | To generate a docker image using Buildpacks. No need of Dockerfile |
-| "mvn compile jib:dockerBuild" | To generate a docker image using Google Jib. No need of Dockerfile |
+## 🧠 What I Learned
 
-## Docker Commands used in the course
+### Section 1 - Introduction to Microservices Architecture  
+### Section 2 - Building microservices using Spring Boot  
+### Section 3 - How do we right size our microservices & identify boundaries  
+### Section 4 - Handle deployment, portability & scalability of microservices using Docker  
+### Section 5 - Deep Dive on Cloud Native Apps & 15-Factor methodology  
+### Section 6 - Configurations Management in Microservices  
+### Section 7 - Using MySQL DBs inside microservices  
+### Section 8 - Service Discovery & Service Registration in microservices  
+### Section 9 - Gateway, Routing & Cross cutting concerns in Microservices  
+### Section 10 - Making Microservices Resilient  
+### Section 11 - Observability and monitoring of microservices  
+### Section 12 - Microservices Security  
+### Section 13 - Event Driven microservices using RabbitMQ, Spring Cloud Functions & Stream  
+### Section 14 - Event Driven microservices using Kafka, Spring Cloud Functions & Stream  
+### Section 15 - Container Orchestration using Kubernetes  
+### Section 16 - Deep dive on Helm  
+### Section 17 - Server-side service discovery and load balancing using Kubernetes  
+### Section 18 - Deploying microservices into cloud K8s cluster  
+### Section 19 - Introduction to K8s Ingress, Service Mesh (Istio) & mTLS  
+### Section 20 - Finish  
 
-|     Docker Command       |     Description          |
-| ------------- | ------------- |
-| "docker build . -t ridhorezi1212/accounts:s4" | To generate a docker image based on a Dockerfile |
-| "docker run  -p 8080:8080 ridhorezi1212/accounts:s4" | To start a docker container based on a given image |
-| "docker images" | To list all the docker images present in the Docker server |
-| "docker image inspect image-id" | To display detailed image information for a given image id |
-| "docker image rm image-id" | To remove one or more images for a given image ids |
-| "docker image push docker.io/ridhorezi1212/accounts:s4" | To push an image or a repository to a registry |
-| "docker image pull docker.io/ridhorezi1212/accounts:s4" | To pull an image or a repository from a registry |
-| "docker ps" | To show all running containers |
-| "docker ps -a" | To show all containers including running and stopped |
-| "docker container start container-id" | To start one or more stopped containers |
-| "docker container pause container-id" | To pause all processes within one or more containers |
-| "docker container unpause container-id" | To unpause all processes within one or more containers |
-| "docker container stop container-id" | To stop one or more running containers |
-| "docker container kill container-id" | To kill one or more running containers instantly |
-| "docker container restart container-id" | To restart one or more containers |
-| "docker container inspect container-id" | To inspect all the details for a given container id |
-| "docker container logs container-id" | To fetch the logs of a given container id |
-| "docker container logs -f container-id" | To follow log output of a given container id |
-| "docker container rm container-id" | To remove one or more containers based on container ids |
-| "docker container prune" | To remove all stopped containers |
-| "docker compose up" | To create and start containers based on given docker compose file |
-| "docker compose down" | To stop and remove containers |
-| "docker compose start" | To start containers based on given docker compose file |
-| "docker compose down" | To stop the running containers |
-| "docker run -p 3306:3306 --name accountsdb -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=accountsdb -d mysql" | To create a MySQL DB container |
-| "docker run -p 6379:6379 --name redis -d redis" | To create a Redis Container |
-| "docker run -p 8080:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:22.0.3 start-dev" | To create Keycloak Container|
+---
 
+## 🔗 Important Links
 
-## Apache Benchmark command used in the course
+- [Spring Boot](https://spring.io/projects/spring-boot)  
+- [Create SpringBoot project](https://start.spring.io)  
+- [DTO pattern](https://martinfowler.com/eaaCatalog/dataTransferObject.html)  
+- [Model Mapper](http://modelmapper.org/)  
+- [Map Struct](https://mapstruct.org/)  
+- [Spring Doc](https://springdoc.org/)  
+- [Open API](https://www.openapis.org/)  
+- [Lucidchart Blog](https://www.lucidchart.com/blog/ddd-event-storming)  
+- [Docker](https://www.docker.com)  
+- [Docker Hub](https://hub.docker.com)  
+- [Buildpacks](https://buildpacks.io)  
+- [Google Jib](https://github.com/GoogleContainerTools/jib)  
+- [Docker Compose](https://docs.docker.com/compose/)  
+- [12-Factor methodology](https://12factor.net)  
+- [Beyond the Twelve-Factor App book](https://www.oreilly.com/library/view/beyond-the-twelve-factor/9781492042631/)  
+- [Spring Cloud](https://spring.io/projects/spring-cloud)  
+- [Spring Cloud Config](https://spring.io/projects/spring-cloud-config)  
+- [Spring Cloud Bus](https://spring.io/projects/spring-cloud-bus)  
+- [RabbitMQ](https://www.rabbitmq.com)  
+- [Hookdeck](https://hookdeck.com)  
+- [Spring Cloud Netflix](https://spring.io/projects/spring-cloud-netflix)  
+- [Spring Cloud OpenFeign](https://spring.io/projects/spring-cloud-openfeign)  
+- [Netflix OSS Blog](https://netflixtechblog.com/netflix-oss-and-spring-boot-coming-full-circle-4855947713a0)  
+- [Resilience4j](https://resilience4j.readme.io)  
+- [Spring Cloud Gateway](https://spring.io/projects/spring-cloud-gateway)  
+- [Stripe RateLimiter Blog](https://stripe.com/blog/rate-limiters)  
+- [Apache Benchmark](https://httpd.apache.org)  
+- [Grafana](https://grafana.com)  
+- [Grafana Loki Setup](https://grafana.com/docs/loki/latest/get-started/quick-start/)  
+- [Micrometer](https://micrometer.io)  
+- [Prometheus](https://prometheus.io/)  
+- [Grafana Dashboards](https://grafana.com/grafana/dashboards/)  
+- [OpenTelemetry](https://opentelemetry.io/)  
+- [OpenTelemetry Java Auto Instrumentation](https://opentelemetry.io/docs/instrumentation/java/automatic/)  
+- [Keycloak](https://www.keycloak.org/)  
+- [Apache Kafka](https://kafka.apache.org)  
+- [Kafka Compose File](https://github.com/bitnami/containers/blob/main/bitnami/kafka/docker-compose.yml)  
+- [Docker Desktop Kubernetes](https://docs.docker.com/desktop/kubernetes/)  
+- [Kubernetes Dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)  
+- [Helm](https://helm.sh)  
+- [Chocolatey](https://chocolatey.org/)  
+- [Bitnami Helm Charts](https://github.com/bitnami/charts)  
+- [Spring Cloud Kubernetes](https://spring.io/projects/spring-cloud-kubernetes)  
+- [Spring Cloud Kubernetes Blog](https://spring.io/blog/2021/10/26/new-features-for-spring-cloud-kubernetes-in-spring-cloud-2021-0-0-m3)  
+- [Google Cloud](https://cloud.google.com)  
+- [GCP SDK Installation](https://cloud.google.com/sdk/docs/install)  
+- [K8s Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/)  
+- [Ingress Controllers](https://kubernetes.io/docs/concepts/services-networking/ingress-controllers/)  
+- [Istio](https://istio.io)  
 
-|     Apache Benchmark command      |     Description          |
-| ------------- | ------------- |
-| "ab -n 10 -c 2 -v 3 http://localhost:8072/bank/cards/api/contact-info" | To perform load testing on API by sending 10 requests |
+---
 
-## Kubernetes Commands used in the course
+## 🛠 Maven Commands
 
-|     Kubernetes Command       |     Description          |
-| ------------- | ------------- |
-| "kubectl apply -f filename" | To create a deployment/service/configmap based on a given YAML file |
-| "kubectl get all" | To get all the components inside your cluster |
-| "kubectl get pods" | To get all the pods details inside your cluster |
-| "kubectl get pod pod-id" | To get the details of a given pod id |
-| "kubectl describe pod pod-id" | To get more details of a given pod id |
-| "kubectl delete pod pod-id" | To delete a given pod from cluster |
-| "kubectl get services" | To get all the services details inside your cluster |
-| "kubectl get service service-id" | To get the details of a given service id |
-| "kubectl describe service service-id" | To get more details of a given service id |
-| "kubectl get nodes" | To get all the node details inside your cluster |
-| "kubectl get node node-id" | To get the details of a given node |
-| "kubectl get replicasets" | To get all the replica sets details inside your cluster |
-| "kubectl get replicaset replicaset-id" | To get the details of a given replicaset |
-| "kubectl get deployments" | To get all the deployments details inside your cluster |
-| "kubectl get deployment deployment-id" | To get the details of a given deployment |
-| "kubectl get configmaps" | To get all the configmap details inside your cluster |
-| "kubectl get configmap configmap-id" | To get the details of a given configmap |
-| "kubectl get events --sort-by=.metadata.creationTimestamp" | To get all the events occured inside your cluster |
-| "kubectl scale deployment accounts-deployment --replicas=1" | To set the number of replicas for a deployment inside your cluster |
-| "kubectl set image deployment gatewayserver-deployment gatewayserver=ridhorezi1212/gatewayserver:s11 --record" | To set a new image for a deployment inside your cluster |
-| "kubectl rollout history deployment gatewayserver-deployment" | To know the rollout history for a deployment inside your cluster |
-| "kubectl rollout undo deployment gatewayserver-deployment --to-revision=1" | To rollback to a given revision for a deployment inside your cluster |
-| "kubectl get pvc" | To list the pvcs inside your cluster |
-| "kubectl delete pvc data-happy-panda-mariadb-0" | To delete a pvc inside your cluster |
+| Command | Description |
+|--------|-------------|
+| `mvn clean install -Dmaven.test.skip=true` | Generate JAR inside target folder |
+| `mvn spring-boot:run` | Start Spring Boot Maven project |
+| `mvn spring-boot:build-image` | Generate Docker image using Buildpacks |
+| `mvn compile jib:dockerBuild` | Generate Docker image using Google Jib |
 
-## Helm Commands used in the course
+---
 
-|     Helm Command       |     Description          |
-| ------------- | ------------- |
-| "helm create [NAME]" | Create a default chart with the given name |
-| "helm dependencies build" | To recompile the given helm chart |
-| "helm install [NAME] [CHART]" | Install the given helm chart into K8s cluster |
-| "helm upgrade [NAME] [CHART]" | Upgrades a specified release to a new version of a chart |
-| "helm history [NAME]" | Display historical revisions for a given release |
-| "helm rollback [NAME] [REVISION]" | Roll back a release to a previous revision |
-| "helm uninstall [NAME]" | Uninstall all of the resources associated with a given release |
-| "helm template [NAME] [CHART]" | Render chart templates locally along with the values |
-| "helm list" | Lists all of the helm releases inside a K8s cluster |
+## 🐳 Docker Commands
+
+> Image: `ridhorezi1212/accounts:s4`
+
+| Command | Description |
+|--------|-------------|
+| `docker build . -t ridhorezi1212/accounts:s4` | Build Docker image using Dockerfile |
+| `docker run -p 8080:8080 ridhorezi1212/accounts:s4` | Run Docker container |
+| `docker images` | List all Docker images |
+| `docker image inspect <image-id>` | Show image details |
+| `docker image rm <image-id>` | Remove image |
+| `docker image push docker.io/ridhorezi1212/accounts:s4` | Push image to DockerHub |
+| `docker image pull docker.io/ridhorezi1212/accounts:s4` | Pull image from DockerHub |
+| `docker ps`, `docker ps -a` | Show running/all containers |
+| `docker container start <id>` | Start container |
+| `docker container stop <id>` | Stop container |
+| `docker container restart <id>` | Restart container |
+| `docker container kill <id>` | Kill container |
+| `docker container inspect <id>` | Inspect container |
+| `docker container logs <id>` | Fetch container logs |
+| `docker container logs -f <id>` | Follow logs |
+| `docker container pause/unpause <id>` | Pause/unpause container |
+| `docker container rm <id>` | Remove container |
+| `docker container prune` | Remove all stopped containers |
+| `docker compose up` | Start services from docker-compose.yml |
+| `docker compose down` | Stop and remove services |
+| `docker run -p 3306:3306 --name accountsdb -e MYSQL_ROOT_PASSWORD=root -e MYSQL_DATABASE=accountsdb -d mysql` | Run MySQL container |
+| `docker run -p 6379:6379 --name redis -d redis` | Run Redis container |
+| `docker run -p 8080:8080 -e KEYCLOAK_ADMIN=admin -e KEYCLOAK_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:22.0.3 start-dev` | Run Keycloak container |
+
+---
+
+## 🧪 Apache Benchmark
+
+| Command | Description |
+|--------|-------------|
+| `ab -n 10 -c 2 -v 3 http://localhost:8072/bank/cards/api/contact-info` | Load testing (10 requests, 2 concurrent) |
+
+---
+
+## ☸️ Kubernetes Commands
+
+| Command | Description |
+|--------|-------------|
+| `kubectl apply -f filename.yaml` | Apply config |
+| `kubectl get all` | Get all resources |
+| `kubectl get pods` | List pods |
+| `kubectl describe pod <id>` | Pod details |
+| `kubectl delete pod <id>` | Delete pod |
+| `kubectl get services` | List services |
+| `kubectl describe service <id>` | Service details |
+| `kubectl get nodes` | List nodes |
+| `kubectl get replicasets` | List replica sets |
+| `kubectl get deployments` | List deployments |
+| `kubectl get configmaps` | List configmaps |
+| `kubectl get events --sort-by=.metadata.creationTimestamp` | List events sorted |
+| `kubectl scale deployment <deployment-name> --replicas=1` | Scale deployment |
+| `kubectl set image deployment <name> <container>=<image> --record` | Set new image |
+| `kubectl rollout history deployment <name>` | View rollout history |
+| `kubectl rollout undo deployment <name> --to-revision=1` | Rollback deployment |
+| `kubectl get pvc` | List PVCs |
+| `kubectl delete pvc <name>` | Delete PVC |
+
+---
+
+## ⛵ Helm Commands
+
+| Command | Description |
+|--------|-------------|
+| `helm create [NAME]` | Create chart |
+| `helm dependencies build` | Recompile dependencies |
+| `helm install [NAME] [CHART]` | Install chart |
+| `helm upgrade [NAME] [CHART]` | Upgrade release |
+| `helm history [NAME]` | Release history |
+| `helm rollback [NAME] [REVISION]` | Rollback release |
+| `helm uninstall [NAME]` | Uninstall release |
+| `helm template [NAME] [CHART]` | Render templates locally |
+| `helm list` | List Helm releases |
+
+---
+
+## 📄 License
+
+This is a learning project — use at your own risk. Licensed under the [MIT License](LICENSE).
+
+---
